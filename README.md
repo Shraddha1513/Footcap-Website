@@ -1,6 +1,6 @@
-#Footcap-Website
+# Footcap-Website
 
-  Footcap is fully responsive website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
+  Footcap is fully responsive website. Responsive for all devices, built using HTML, CSS, and JavaScript.
 
   This website can help companies expand their buisness and generate brand awareness.They can also offer a wider selection of shoes.
 
