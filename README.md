@@ -1,4 +1,4 @@
-![Screenshot 2024-01-03 160312](https://github.com/Shraddha1513/Footcap-Website/assets/140946907/bdb7c684-1a62-4b76-9364-8ffb844676f4)Footcap-Website
+#Footcap-Website
 
   Footcap is fully responsive website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
