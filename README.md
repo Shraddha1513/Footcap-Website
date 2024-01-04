@@ -1,54 +1,20 @@
-<div align="center">
+![Screenshot 2024-01-03 160312](https://github.com/Shraddha1513/Footcap-Website/assets/140946907/bdb7c684-1a62-4b76-9364-8ffb844676f4)Footcap-Website
+
+  Footcap is fully responsive website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
+
+  This website can help companies expand their buisness and generate brand awareness.They can also offer a wider selection of shoes.
+
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/footcap)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/footcap?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/footcap?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/BsmRYjW4csw?style=social)](https://youtu.be/BsmRYjW4csw)
-
-  <br />
-  <br />
-
-  <h2 align="center">Footcap - eCommerce website</h2>
-
-  Footcap is fully responsive ecommerce website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
-
-  <a href="https://codewithsadee.github.io/footcap/"><strong>➥ Live Demo</strong></a>
-
-</div>
-
-<br />
-
 ### Demo Screeshots
 
-![Footcap Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Screenshot 2024-01-03 160312](https://github.com/Shraddha1513/Footcap-Website/assets/140946907/4c736946-703c-4d48-bcea-7460b722f01d)
 
-### Prerequisites
+![Screenshot 2024-01-03 160407](https://github.com/Shraddha1513/Footcap-Website/assets/140946907/8cc4db8b-e80f-4d50-a608-ebf7245dcb9d)
 
-Before you begin, ensure you have met the following requirements:
+![Screenshot 2024-01-03 160422](https://github.com/Shraddha1513/Footcap-Website/assets/140946907/6892b9fe-eeac-4aa3-a644-383636a24479)
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+![Screenshot 2024-01-03 160441](https://github.com/Shraddha1513/Footcap-Website/assets/140946907/a45a3529-7ef3-4c47-ac4a-63c126a0774c)
 
-### Run Locally
+![Screenshot 2024-01-03 160457](https://github.com/Shraddha1513/Footcap-Website/assets/140946907/a78cdca0-161f-4b83-a997-fd0c1d192434)
 
-To run **Footcap** locally, run this command on your git bash:
 
-Linux and macOS:
-
-```bash
-sudo git clone https://github.com/codewithsadee/footcap.git
-```
-
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/footcap.git
-```
-
-### Contact
-
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
-
-### License
-
-This project is **free to use** and does not contains any license.
