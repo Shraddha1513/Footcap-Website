@@ -4,7 +4,8 @@
 
   This website can help companies expand their buisness and generate brand awareness.They can also offer a wider selection of shoes.
 
-  
+[Live Demo](https://shraddha1513.github.io/Footcap-Website/)
+
 ### Demo Screeshots
 
 ![Screenshot 2024-01-03 160312](https://github.com/Shraddha1513/Footcap-Website/assets/140946907/4c736946-703c-4d48-bcea-7460b722f01d)
